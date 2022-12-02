@@ -24,6 +24,7 @@ while True:
       link_qrcode = qrcode.make(link)
 #Salvando QRcode em imagem
       link_qrcode.save('{}.png'.format(arquivo))
+# Em caso de erro
   except:
     erro = 'Erro'
     janela['link_arquivo'].update(f'{erro}')
