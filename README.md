@@ -30,7 +30,7 @@
 
 ![qrcode (3)](https://user-images.githubusercontent.com/115845859/205523217-3374f836-8572-42c8-ba88-ec15aaff0e66.jpg)
 
-<h2> Tecnologias usadas para desenvolvero sistema: </h2>
+<h2> Tecnologias usadas para desenvolver o sistema: </h2>
 <h3> Linguagem: <br>
   -Python
 <h3> Bibliotecas: <br>
